@@ -4,8 +4,8 @@
 
 Documentação pessoal dos estudos para a certificação AZ-900
 
-1. [Modelos de Nuvem](./1-Modelos%20de%20Nuvem/README.MD)
-2. [Estrutura Física](./2-EstruturaFisica/Readme.md)
+1. [Conceitos de Nuvem](./1-Conceitos%20de%20Nuvem/README.MD)
+2. [Principais serviços do Azure](/2-Principais%20serviços%20do%20Azure/README.MD)
 3. [Resource Group](./3-ResouceGroup/Readme.md)
 4. [Rede](./4-Rede/Readme.md)
 5. [Storage](./5-Storage/Readme.md)
