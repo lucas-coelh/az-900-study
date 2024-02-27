@@ -83,11 +83,11 @@ _**Service Level Agreement (SLA):**_ Acordo de Nível de Serviço, é um contrat
 
 - Fornece software baseado na web que é executado em servidores de terceiros. ex: Office 365, Google Apps, Salesforce.
 
-![alt text](/Imagens/servicos-nuvem.png)
+![alt text](/1-Modelos%20de%20Nuvem/Imagens/servicos-nuvem.png)
 
 | IaaS | PaaS | SaaS |
 |------|------|------|
 | Controle total sobre a infraestrutura | Foco no desenvolvimento de aplicativos | Paga pelo software em um modelo de assinatura |
 | Você configura e gerencia o hardware para o seu aplicativo | Gerenciamento da plataforma é manipulado pelo provedor de nuvem. |  |
 
-![alt text](/Imagens/servicos-nuvem-responsabilidade.png)
+![alt text](/1-Modelos%20de%20Nuvem/Imagens/servicos-nuvem-responsabilidade.png)
