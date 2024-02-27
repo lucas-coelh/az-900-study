@@ -10,8 +10,11 @@
     - [Nuvem Híbrida (Providers + On-Premises)](#nuvem-híbrida-providers--on-premises)
   - [Considerações e Benefícios da Nuvem](#considerações-e-benefícios-da-nuvem)
     - [Benefícios](#benefícios)
-    - [Comparar CapEx e OpEx](#comparar-capex-e-opex)
+    - [Capex Expenditure (CapEx) — Gasto de Capital x Operational Expenditure (OpEx) — Gasto Operacional](#capex-expenditure-capex--gasto-de-capital-x-operational-expenditure-opex--gasto-operacional)
   - [Serviços de Nuvem](#serviços-de-nuvem)
+    - [IaaS (Infraestrutura como Serviço)](#iaas-infraestrutura-como-serviço)
+    - [PaaS (Plataforma como Serviço)](#paas-plataforma-como-serviço)
+    - [SaaS (Software como Serviço)](#saas-software-como-serviço)
 
 ## Modelos de Nuvem
 
@@ -58,7 +61,7 @@ _**Service Level Agreement (SLA):**_ Acordo de Nível de Serviço, é um contrat
 - **Recuperação de Desastres:** Ambiente em espera em outra localização geográfica que pode ser ativado em caso de desastre.
 - **Segurança:** Proteção de dados e informações.
 
-### Comparar CapEx e OpEx
+### Capex Expenditure (CapEx) — Gasto de Capital x Operational Expenditure (OpEx) — Gasto Operacional
 
 | CapEx | OpEx |
 |-------|------|
@@ -67,3 +70,24 @@ _**Service Level Agreement (SLA):**_ Acordo de Nível de Serviço, é um contrat
 | | Melhor previsão de custos |
 
 ## Serviços de Nuvem
+
+### IaaS (Infraestrutura como Serviço)
+
+- Fornece acesso a recursos de computação, como máquinas virtuais, redes, armazenamento e sistemas operacionais.
+
+### PaaS (Plataforma como Serviço)
+
+- Oferece um ambiente de desenvolvimento e implantação de aplicativos sem a complexidade de construir e manter a infraestrutura. ex: Aws, Azure, Google Cloud.
+
+### SaaS (Software como Serviço)
+
+- Fornece software baseado na web que é executado em servidores de terceiros. ex: Office 365, Google Apps, Salesforce.
+
+![alt text](/Imagens/servicos-nuvem.png)
+
+| IaaS | PaaS | SaaS |
+|------|------|------|
+| Controle total sobre a infraestrutura | Foco no desenvolvimento de aplicativos | Paga pelo software em um modelo de assinatura |
+| Você configura e gerencia o hardware para o seu aplicativo | Gerenciamento da plataforma é manipulado pelo provedor de nuvem. |  |
+
+![alt text](/Imagens/servicos-nuvem-responsabilidade.png)
